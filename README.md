@@ -1,7 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Web+Developer;Always+learning+new+things)
-<h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">Computer Science student & Web Developer</h3>
-
+<div  align="center">
+  <h1>Hi 👋, I'm João</h1>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?      color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Web+Developer;Always+learning+new+things)
+  <h3>Computer Science student & Web Developer</h3>
+</div>
 ---
 
 ## 🚀 About Me
