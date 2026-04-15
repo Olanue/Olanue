@@ -1,38 +1,81 @@
-<div  align="center">
-  <h1>Hi 👋, I'm João</h1>
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?      color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Web+Developer;Always+learning+new+things)
-  <h3>Computer Science student & Web Developer</h3>
-</div>
+<h1 align="center">Hi 👋, I'm João Silva</h1>
+<h3 align="center">Computer Science Student | Web Developer | Based in Dublin 🇮🇪</h3>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Web+Developer;Building+cool+projects;Always+learning+new+things" />
+</p>
+
 ---
 
 ## 🚀 About Me
+
 - 🎓 Computer Science student  
 - 💻 Focused on Web Development  
-- 🌍 Based in Dublin  
+- 🌍 Living in Dublin  
+- 🧠 Interested in APIs, extensions, and UI  
 - 🎯 Goal: Work, grow, and travel the world  
 
 ---
 
 ## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,sqlite,python,git" />
-</div>
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Database
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+🚧 (Update these with your repos)
+
+- 🔹 **Chrome Extension for Scryfall**  
+  → Identifies cards and links to LigaMagic  
+
+- 🔹 **Pokédex Web App**  
+  → Filtering, pagination, and detailed pages  
+
+- 🔹 **Magic Card Organizer Tool**  
+  → Inspired by Scryfall UI  
 
 ---
 
 ## 📊 GitHub Stats
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: (coloca aqui)
-- 📧 Email: (se quiser)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 ---
 
 ## ⚡ Fun Fact
-I like games, coding, and finding cool places to read in Dublin ☕📖
+
+I enjoy coding, games, and finding good spots to read in Dublin ☕📖
+
+---
+
+## 🐍 Contributions
+
+![snake gif](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
